@@ -23,6 +23,18 @@ The program allows users to park vehicles, display parked vehicles, and calculat
 - Menu Driven Program
 
 ---
+---
 
-## Project Structure
+## Future Improvements
 
+- Add vehicle exit system
+- Add parking slot management
+- Add GUI interface
+- Add daily revenue report
+
+---
+
+## Author
+
+Jayaram  
+B.Tech Computer Engineering Student
